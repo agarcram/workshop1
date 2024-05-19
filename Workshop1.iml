@@ -10,5 +10,6 @@
     <orderEntry type="library" exported="" name="fasterxml.jackson.core" level="project" />
     <orderEntry type="library" exported="" name="fasterxml.jackson.core.databind" level="project" />
     <orderEntry type="library" exported="" name="fasterxml.jackson.dataformat.xml" level="project" />
+    <orderEntry type="library" name="json-20210307" level="project" />
   </component>
 </module>
